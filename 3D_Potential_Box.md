@@ -1,4 +1,3 @@
-# Quantum Dots: Analytical Origin of a Qubit
 ### Particle in a 3D Infinite Potential Box
 
 ---

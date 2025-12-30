@@ -315,3 +315,14 @@ fig.show()
 ## Output
 <img width="510" height="359" alt="image" src="https://github.com/user-attachments/assets/f2a31ddc-0784-4c1d-bcdc-fe4185256782" />
 
+## Quantum Dots:
+A quantum dot is a nanoscale semiconductor particle in which electrons are confined in all three dimensions. Because of this confinement, the electron energy levels are discrete, similar to an electron in a 3D potential box.
+
+Mathematically, a quantum dot can be approximated as a finite or infinite 3D potential well:
+
+Inside the dot: the potential is approximately zero
+
+Outside the dot: the potential rises sharply (effectively “walls”)
+
+This confinement leads to quantization of energy levels, which is why quantum dots are sometimes called “artificial atoms.”
+

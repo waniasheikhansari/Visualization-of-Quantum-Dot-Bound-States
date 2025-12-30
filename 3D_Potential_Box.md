@@ -314,7 +314,5 @@ fig.show()
 ```
 
 ## Output
+<img width="510" height="359" alt="image" src="https://github.com/user-attachments/assets/f2a31ddc-0784-4c1d-bcdc-fe4185256782" />
 
-```
-[Interactive 3D Wavefunction](wavefunction_3D.html)
-```
